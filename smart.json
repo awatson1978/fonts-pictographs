@@ -1,8 +1,8 @@
 {
-    "name": "fonts-barcode",
+    "name": "fonts-pictographs",
     "description": "Meteorite package to add the Modern Pictographs font and associates CSS styles to a Meteor app.",
     "homepage": "https://github.com/awatson1978/fonts-pictographs",
     "author": "Abigail Watson  (http://www.pentasyllabic.com)",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "git": "https://github.com/awatson1978/fonts-pictographs.git"
 }
