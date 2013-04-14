@@ -1,0 +1,9 @@
+@font-face
+{
+    font-family: ModernPictographs;
+    src: url('/fonts/ModernPictographs.otf');
+}
+.pictographs, .pictograph, .pictogram, .pictograms{
+    font-family: ModernPictographs;
+    font-size: 1.2em;
+}
