@@ -1,4 +1,4 @@
-**fonts-pictographs** is a Meteorite package for the Modern Pictograms Font to Meteor apps.   If you like these pictographs, go to their website and buy the pro version!  They're fantastic!
+**fonts-pictographs** is a Meteorite package for including the Modern Pictograms Font in Meteor apps.   If you like these pictographs, go to their website and buy the pro version!  They're fantastic!
 
 http://modernpictograms.com/
 
