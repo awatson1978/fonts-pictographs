@@ -1,4 +1,4 @@
-**fonts-barcode** is a Meteorite package for adding the 3 of 9 Barcode font to Meteor apps.   If you like these pictographs, go to their website and buy the pro version!  They're fantastic!
+**fonts-pictographs** is a Meteorite package for the Modern Pictograms Font to Meteor apps.   If you like these pictographs, go to their website and buy the pro version!  They're fantastic!
 
 http://modernpictograms.com/
 
@@ -33,3 +33,11 @@ pictogram
 pictograms
 ````
 
+------------------------
+### Copyright / Licensing
+
+This font was downloaded from http://modernpictograms.com/
+
+Modern Pictograms is a project of The Design Office, Providence, R.I. Except for social media logos, all pictograms are original drawings by John Caserta, licensed for use. Website by John Caserta & Greg Nemes. 
+
+Please go to their site and upgrade to the professional version.  It will make your site that much snazzier!
