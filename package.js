@@ -14,6 +14,6 @@ Package.register_extension(
 );
 
 Package.on_use(function (api) {
-    api.add_files('ModernPictographs.otf', "client");
+    api.add_files('fonts/ModernPictographs.otf', "client");
     api.add_files('fonts-pictographs.css', "client");
 });
