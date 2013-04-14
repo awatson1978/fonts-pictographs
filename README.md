@@ -16,7 +16,7 @@ mrt add fonts-pictographs
 
 Second, add the 'pictographs' class to the appropriate HTML tags, like so.  Dead simple, right?
 
-````
+````html
 <div>This is a barcode: <span class="pictographs">*123-45-6789*</span></div>
 ````
 
