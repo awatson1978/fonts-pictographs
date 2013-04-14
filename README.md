@@ -1,6 +1,6 @@
-**fonts-pictographs** is a Meteorite package for adding the Modern Pictographs font to Meteor apps.  
+**fonts-barcode** is a Meteorite package for adding the 3 of 9 Barcode font to Meteor apps.   If you like these pictographs, go to their website and buy the pro version!  They're fantastic!
 
-
+http://modernpictograms.com/
 
 ------------------------
 ### Installation
