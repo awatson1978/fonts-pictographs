@@ -1,29 +1,35 @@
-**fonts-barcode** is a Meteorite package for adding the 3 of 9 Barcode font to Meteor apps.  Admit it, we all love fonts.  And how cool is it that barcodes are just fonts?  Useful for any apps requiring inventory tracking or printing of labels.  
+**fonts-pictographs** is a Meteorite package for adding the Modern Pictographs font to Meteor apps.  
+
 
 
 ------------------------
 ### Installation
 
-First, install the fonts-barcode package from the command line, like so:
+First, install the fonts-pictographs package from the command line, like so:
 
 ````
-mrt add fonts-barcode
+mrt add fonts-pictographs
 ````
 
 ------------------------
 ### Data/Document Model
 
-Second, add the 'barcode' class to the appropriate HTML tags, like so.  Dead simple, right?
+Second, add the 'pictographs' class to the appropriate HTML tags, like so.  Dead simple, right?
 
 ````
-    <div>This is a barcode: <span class="barcode">*123-45-6789*</span></div>
+    <div>This is a barcode: <span class="pictographs">*123-45-6789*</span></div>
 ````
 
 
-### **REMINDER**
+------------------------
+### Lexicon
 
-You MUST enclose your barcode with asterixes!!!
+fonts-barcode supports the following lexicon, so feel free to use whichever works best in your syntax.
 
 ````
-*123456789*
+pictograph
+pictographs
+pictogram
+pictograms
 ````
+
