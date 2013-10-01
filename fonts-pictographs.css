@@ -1,7 +1,7 @@
 @font-face
 {
     font-family: ModernPictographs;
-    src: url('/fonts/ModernPictographs.otf');
+    src: url('/packages/fonts-pictographs/fonts/ModernPictographs.otf');
 }
 .pictographs, .pictograph, .pictogram, .pictograms{
     font-family: ModernPictographs;
