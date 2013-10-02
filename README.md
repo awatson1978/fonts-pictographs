@@ -41,3 +41,9 @@ This font was downloaded from http://modernpictograms.com/
 Modern Pictograms is a project of The Design Office, Providence, R.I. Except for social media logos, all pictograms are original drawings by John Caserta, licensed for use. Website by John Caserta & Greg Nemes. 
 
 Please go to their site and upgrade to the professional version.  It will make your site that much snazzier!
+
+------------------------
+### Support
+Found this package to be useful?  Consider tipping the package maintainer for their time!  
+
+[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
