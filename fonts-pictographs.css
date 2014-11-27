@@ -1,6 +1,6 @@
 @font-face{
     font-family: ModernPictographs;
-    src: url('/packages/fonts-pictographs/fonts/ModernPictographs.otf');
+    src: url('/packages/awatson1978_fonts-pictographs/fonts/ModernPictographs.otf');
 }
 .pictographs, .pictograph, .pictogram, .pictograms{
     font-family: ModernPictographs;
